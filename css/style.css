@@ -1,0 +1,37 @@
+.frame{
+	 width: 32.80%;
+	 height: 420px;
+}
+
+.frame1{
+	width: 40%;
+	height: 380px;
+}
+
+
+
+.box{
+	width: 100px;
+	height: 100px;
+}
+.red{
+	background-color: red;
+	padding: 5px;
+}
+.aqua{
+	background-color: aqua;
+	margin-left: 110px;
+	padding: 10px;
+}
+.orange{
+	background-color: darkorange;
+	margin-left: 229px;
+	padding: 15px;
+}
+.grey{
+	background-color: grey;
+	margin-left: 358px;
+	padding: 25px;
+
+}
+
